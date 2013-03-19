@@ -1087,3 +1087,4 @@ Served asset /microposts.js - 304 Not Modified (2ms)
 
 Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-03-18 22:11:54 -0700
 Served asset /application.js - 304 Not Modified (7ms)
+Connecting to database specified by database.yml
